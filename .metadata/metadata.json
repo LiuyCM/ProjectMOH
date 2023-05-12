@@ -1,1 +1,12 @@
-{"name":"[WIP]ProjectMOH","id":"","version":"0.0.1","supported_game_version":"","short_description":"A mod about China population","tags":[],"relationships":[]}
+{
+  "name" : "[WIP]ProjectMOH",
+  "id" : "",
+  "version" : "0.0.1",
+  "supported_game_version" : "1.*.*",
+  "short_description" : "[WIP]ProjectMOH",
+  "tags" : [],
+  "relationships" : [],
+  "game_custom_data" : {
+    "multiplayer_synchronized" : false
+  }
+}
